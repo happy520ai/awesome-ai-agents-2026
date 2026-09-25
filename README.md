@@ -461,6 +461,7 @@
 | Tool | Description |
 |------|-------------|
 | [Agentify](https://github.com/koriyoshi2041/agentify) | CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`. |
+| [Unified AI System](https://github.com/happy520ai/unified-ai-system) | Self-hosted MCP gateway: turns any OpenAPI 3 spec into governed MCP tools. Fifteen bounded tools for Codex/Cursor, virtual keys, token budgets, semantic cache, audit. Zero API keys by default. |
 
 ---
 
